@@ -8,7 +8,12 @@ A professional **Portfolio Website** showcasing my skills, projects, and experie
 - 📄 **Dedicated Sections: About, Skills, Projects, Contact**  
 - ⚡ **Optimized Performance & SEO**  
 - 📱 **Mobile-Friendly & Fully Responsive**  
-- 🔗 **Social Media & Contact Links**  
+- 🔗 **Social Media & Contact Links**
+
+  ## 🎬 Best Viewing Experience  
+🔹 For the **best visual experience**, view this website in **full-screen mode** on a **Windows PC**.  
+🔹 Press **F11** to enter or exit full-screen mode.  
+🔹 Works best on modern browsers like **Google Chrome, Edge, or Firefox**.  
 
 ## 🛠 Tech Stack  
 - **HTML5** - Page structure  
