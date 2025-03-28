@@ -27,4 +27,4 @@ A professional **Portfolio Website** showcasing my skills, projects, and experie
 1. **Clone the repository**:  
    ```bash
    git clone https://junaiddeveloper786.github.io/Portfolio-Website.git
-   cd My-Portfolio
+   cd Portfolio-Website
