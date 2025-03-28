@@ -16,10 +16,10 @@ A professional **Portfolio Website** showcasing my skills, projects, and experie
 - **JavaScript** - Interactive elements  
 
 ## 🎬 Live Demo  
-🔗 [View Live Portfolio](https://junaiddeveloper786.github.io/My-Portfolio/)  
+🔗 [View Live Portfolio](https://junaiddeveloper786.github.io/Portfolio-Website/)  
 
 ## 🚀 How to Use  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/junaiddeveloper786/My-Portfolio.git
+   git clone https://junaiddeveloper786.github.io/Portfolio-Website.git
    cd My-Portfolio
